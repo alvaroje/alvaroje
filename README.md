@@ -2,7 +2,7 @@
 
 ✨ _Desarrollador web en formación_ ✨, apasionado por el mundo IT y la creación de soluciones innovadoras.  
 
-- 🔭 Actualmente, estoy buscando mi primera experiencia profesional como programador junior.  
+- 🔭 Actualmente, estoy buscando mi primera experiencia profesional como programador junior/prácticas.  
 - 🌱 Estoy perfeccionando mis habilidades en **JavaScript** y explorando proyectos relacionados con **desarrollo web**.  
 - 👯 Me encantaría colaborar en proyectos web que usen metodologías **Agile (Scrum)** y herramientas como **Git**.  
 - 💬 Pregúntame sobre desarrollo web, herramientas de productividad, o cómo iniciarte en programación.  
